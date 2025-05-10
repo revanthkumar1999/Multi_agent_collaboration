@@ -200,26 +200,5 @@ multi-agent-chatbot/
 - Input validation for all user inputs
 - SQL injection protection in database utilities
 
-## 🧪 Testing
-
-To run the tests:
-
-```bash
-pytest tests/
-```
-
-The test suite includes:
-- Unit tests for individual agents
-- Integration tests for agent interactions
-- API endpoint tests
-- Utility function tests
-
-
-
-## 📞 Contact
-
-For any questions or feedback, please open an issue or contact the project maintainers.
-
----
 
 Made with ❤️ by Revanth Kumar Bondada
