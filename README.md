@@ -214,29 +214,7 @@ The test suite includes:
 - API endpoint tests
 - Utility function tests
 
-## 📈 Future Enhancements
 
-- [ ] Add support for additional programming languages
-- [ ] Implement conversation memory across sessions
-- [ ] Add real-time collaboration features
-- [ ] Integrate with additional database systems
-- [ ] Add support for file uploads and analysis
-- [ ] Implement voice interface
-- [ ] Create mobile application interface
-
-## 📜 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
 
 ## 📞 Contact
 
@@ -244,4 +222,4 @@ For any questions or feedback, please open an issue or contact the project maint
 
 ---
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by Revanth Kumar Bondada
